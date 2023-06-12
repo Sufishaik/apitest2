@@ -1,0 +1,24 @@
+{
+    "posts" : [
+        {
+            "img1": "../src/assets/unsplash_0FHNXqyqgg4 (1).svg",
+            "title2": "Shirt with puffed sleeves"
+            },
+            {
+            "img1": "../src/assets/unsplash_0FHNXqyqgg4 (3).png",
+            "title2": "Linen jumpsuit"
+            },
+            {
+            "img1": "../src/assets/unsplash_0FHNXqyqgg4.svg",
+            "title2": "White formal suit"
+            },
+            {
+            "img1": "../src/assets/unsplash_0FHNXqyqgg4.png",
+            "title2": "Pattern dressed"
+            },
+            {
+            "img1": "../src/assets/unsplash_0FHNXqyqgg4 (1).png",
+            "title2": "Leather shirt dress"
+            }
+    ]
+}
